@@ -1,0 +1,3 @@
+@echo off
+xmrig.exe --donate-level 1 -o us2.monero.herominers.com:1111 -u 46HQ6JCimc6HrGZbEiS6X27FERa4uoFe28G6mEz5afHz8oT1hbjcxuPHtEzkViR7GFdMC1cAr1BQh1KNJd2rz9QjQcYeWRe -p 14700T -a rx/0 -k 
+pause
