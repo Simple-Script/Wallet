@@ -1,0 +1,3 @@
+@cd /d "%~dp0"
+C:\Users\Kellarosa\Downloads\t-rex-0.26.8-win\t-rex.exe -a kawpow -o stratum+tcp://us2.ravencoin.herominers.com:1140 -u RUSpvzM9C8n9MUJMy2yLVoZasSmdjkwJbJ.rig1 -p x
+pause
